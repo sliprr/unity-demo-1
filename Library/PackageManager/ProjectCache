@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638138049736366510
-    m_Hash: 2465031950
+      ticks: 638139546596308181
+    m_Hash: 1411460284
   m_LockFileStatus:
     m_FilePath: C:/Users/Janni/My project (1)/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638138049844943417
-    m_Hash: 3333413975
+      ticks: 638139546596318195
+    m_Hash: 4090777657
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
